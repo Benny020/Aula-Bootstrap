@@ -1,0 +1,30 @@
+.navbar
+{
+    background-color: rgba(78, 78, 78, 0.16) !important;
+}
+.margin
+{
+    padding-top: 20px;
+}
+.quem-somos
+{
+    background-color: black;
+    color: azure;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.onde-estamos
+{
+    padding-bottom: 20px;
+}
+.para-onde
+{
+    background-color: black;
+    color: azure;
+    padding-bottom: 15px;
+}
+.bg-footer
+{
+    background-color: brown;
+    color: azure;
+}
